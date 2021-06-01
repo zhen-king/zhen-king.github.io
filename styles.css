@@ -1,14 +1,15 @@
 #about{
   background-image:url("myBackground.jpg");
 }
+body{
+  background-color:#a9f1df;
+  
+}
 #python{
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
-}
-body{
-  background-color:#a9f1df;
   
 }
 table{
